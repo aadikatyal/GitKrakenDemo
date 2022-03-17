@@ -12,3 +12,5 @@ public class Runner
 		System.out.println(perfectSquare.isPerfectSquare(userNum));
 	}
 }
+
+// Learned GitKraken + lambda
