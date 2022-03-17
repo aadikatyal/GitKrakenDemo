@@ -31,6 +31,7 @@ public class Runner
 	}
 }
 
+//PartnerB Learned GitKraken + lambda
 /*
 Partner A:
 I learned how to use functional interfaces and lamba functions to implement the interface.
